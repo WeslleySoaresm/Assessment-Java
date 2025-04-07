@@ -32,7 +32,7 @@ public class ChatSimples {
             System.out.println(msg);
         }
 
-        // Mensagem de despedida
+        // Mensagem de despedid
         System.out.println("\nObrigado por utilizarem o sistema!");
 
         scanner.close();
