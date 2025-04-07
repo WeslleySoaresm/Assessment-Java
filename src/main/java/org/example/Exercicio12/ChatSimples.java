@@ -26,7 +26,7 @@ public class ChatSimples {
             contadorMensagens++;
         }
 
-        // Exibindo o histórico de mensagens
+        // Exibindo o histórico de mensagen
         System.out.println("\n===== Histórico de Mensagens =====");
         for (String msg : mensagens) {
             System.out.println(msg);
